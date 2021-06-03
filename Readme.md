@@ -26,6 +26,8 @@ Use git clone https://github.com/HornerJustinT/Feedback-App.git to download the 
 -note macOS with Xcode that is able to deploy to iOS 14.3 is required
 
 After cloning the project press the play button in Xcode. It should look like this.
+
+
 ![SC3](https://user-images.githubusercontent.com/46014626/120674022-4e510c80-c459-11eb-9fcf-14bab73d972d.png)
 
 
